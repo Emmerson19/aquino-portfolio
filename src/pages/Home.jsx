@@ -19,9 +19,9 @@ function Home() {
           Hi, I’m Emmerson R. Aquino.
         </h1>
         <p className="mt-6 max-w-3xl text-base leading-7 text-gray-400 sm:mt-8 sm:text-lg sm:leading-8">
-          I’m studying for a Bachelor of Science in Information Technology at
-          Gordon College. I’m 22 and based in Purok 6, Upper Apitong, Old Cabalan,
-          Olongapo City.
+          I’m studying for a <strong>Bachelor of Science in Information Technology</strong> at
+          <strong>Gordon College</strong>. I’m 22 and live in <strong>Purok 6, Upper Apitong, Old Cabalan,
+          Olongapo City</strong>.
         </p>
         <div className="mt-8 flex flex-col gap-3 sm:mt-10 sm:flex-row sm:gap-4">
           <Link
