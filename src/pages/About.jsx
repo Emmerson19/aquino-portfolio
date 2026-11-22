@@ -33,7 +33,7 @@ function About() {
           <p className="mt-4 leading-8 text-gray-400">
             My background is rooted in hands-on curiosity, which eventually
             turned into a focus on software development, databases, and clean
-            web design. I like keeping things practical—my goal isn’t just to
+            web design. I like keeping things practical my goal isn’t just to
             write code, but to build tools and applications that solve real
             problems without unnecessary clutter.
           </p>
